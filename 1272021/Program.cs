@@ -53,6 +53,7 @@ namespace _1272021
             d.Add(24, "Guava");
             d.Add(13, "Mango");
             d.Add(45, "Apple");
+            //iterating by keys
             foreach (int i in d.Keys)
             {
                 Console.WriteLine(i + " - " + d[i]);
