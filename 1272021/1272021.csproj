@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1272021.Class1</RootNamespace>
+    <StartupObject>_1272021.count</StartupObject>
+  </PropertyGroup>
+
+</Project>
