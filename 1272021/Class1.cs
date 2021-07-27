@@ -7,5 +7,6 @@ namespace _1272021.Class1
     class Class1
     {
         //this is new class
+        //modification from git
     }
 }
