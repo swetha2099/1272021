@@ -22,6 +22,7 @@ namespace _1272021.Class1
                     s[i] = 1;
                 }
             }
+            //display data
             foreach (int j in s.Keys)
             {
                 Console.WriteLine(j + "-" + s[j]);
