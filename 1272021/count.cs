@@ -10,7 +10,7 @@ namespace _1272021.Class1
         {
             int[] a = new int[] { 1, 2, 3, 4, 1, 1, 2, 3, 4, 4, 5, 6 };
             SortedDictionary < int ,int> s= new SortedDictionary<int,int>();
-
+            //sorted dictionary
             foreach(int i in a)
             {
                 if(s.ContainsKey(i) )
