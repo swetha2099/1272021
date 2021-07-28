@@ -28,6 +28,7 @@ namespace _1272021.Class1
                 Console.WriteLine(j + "-" + s[j]);
             }
             //all datas displayed
+            //xyz
             //changes after merging the branches
         }
     }
