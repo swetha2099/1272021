@@ -27,7 +27,8 @@ namespace _1272021.Class1
             {
                 Console.WriteLine(j + "-" + s[j]);
             }
-
+            int x = 30;
+            Console.WriteLine("from master");
         }
     }
 }
