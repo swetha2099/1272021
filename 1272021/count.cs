@@ -32,6 +32,7 @@ namespace _1272021.Class1
             //changes after merging the branches
             //branch2
             //merging
+            int y = 20;
             int x = 30;
             Console.WriteLine("merged");
            
