@@ -30,6 +30,7 @@ namespace _1272021.Class1
             //all datas displayed
             //xyz
             //changes after merging the branches
+            //branch2
             int x = 30;
             Console.WriteLine("merged");
            
