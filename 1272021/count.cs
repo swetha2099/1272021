@@ -33,6 +33,7 @@ namespace _1272021.Class1
             //branch2
             //merging
             int y = 20;
+            int z = 21;
             int x = 30;
             Console.WriteLine("merged");
            
